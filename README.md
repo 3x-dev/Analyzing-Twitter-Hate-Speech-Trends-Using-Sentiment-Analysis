@@ -1,4 +1,4 @@
-# Finding Trends on Twitter Hate Speech Using Sentiment Analysis
+# Inferring Hate Speech Trends for Contemporary Tweets Using a Novel Machine Learning Approach from Supervised Learning Algorithms
 
 This repo contains the main Python notebook files I used to collect research on Hate Speech Trends for Twitter using Sentiment Analysis.
 This research was presented at the 2022-2023 in-person Synopsys Science Fair in Santa Clara Valley.
